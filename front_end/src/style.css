@@ -1,0 +1,14 @@
+.nav-wrapper{
+    background-color: black;
+}
+.brand-logo{
+    margin-left: 10%;
+}
+.search{
+    width: 25%;
+    margin-top: 15px;
+    margin-left: 25%;
+    height: 30px;
+    float: left;
+    background-color: white;
+}
